@@ -1,5 +1,5 @@
 # N-Gram-Example
-This repository shows the implementation of a BiGram, which considers the vocabulary of different dialogues between characters in Shakespear's works, whose information is found in the [Shakespeare plays](https://www.kaggle.com/datasets/kingburrito666/shakespeare-plays) dataset.
+[This repository] (https://github.com/daniel-lima-lopez/N-Gram-Example) shows the implementation of a BiGram, which considers the vocabulary of different dialogues between characters in Shakespear's works, whose information is found in the [Shakespeare plays](https://www.kaggle.com/datasets/kingburrito666/shakespeare-plays) dataset.
 
 ## Installation
 Clone this repository: 
